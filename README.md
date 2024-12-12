@@ -1,6 +1,6 @@
 # CartApp - Setup and Running Instructions
 
-Welcome to **CartApp**, a project consisting of a backend powered by MongoDB and .NET, and a frontend built with a shopping cart feature. Follow the steps below to set up and run the project successfully. Made by us students at Istanbul Technical University.
+Welcome to **CartApp**, a project consisting of a backend powered by MongoDB and .NET, and a frontend built with a shopping cart feature. Follow the steps below to set up and run the project successfully.
 
 ---
 
@@ -41,6 +41,17 @@ Welcome to **CartApp**, a project consisting of a backend powered by MongoDB and
      }
      ```
    - Replace `"mongodb://localhost:27017/CartApp"` with your own MongoDB connection string if it differs.
+
+---
+
+## Adding Items to the Database
+
+1. Open MongoDB Compass.
+2. Navigate to the `CartApp` database and its `CartApp` cluster.
+3. Import the provided `CartApp.Items.json` file into the collection:
+   - Click **Import Data**.
+   - Select the `CartApp.Items.json` file.
+   - Click **Import** to add the items to the database.
 
 ---
 
