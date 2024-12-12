@@ -1,6 +1,6 @@
 # CartApp - Setup and Running Instructions
 
-Welcome to **CartApp**, a project consisting of a backend powered by MongoDB and .NET, and a frontend built with a shopping cart feature. Follow the steps below to set up and run the project successfully.
+Welcome to **CartApp**, a project consisting of a backend powered by MongoDB and .NET, and a frontend built with a shopping cart feature. Follow the steps below to set up and run the project successfully. Made by us students at Istanbul Technical University.
 
 ---
 
