@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "675b419321b925b42deaba46"
+  },
+  "name": "Item 1",
+  "price": 10.99,
+  "stock": 100,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba47"
+  },
+  "name": "Item 2",
+  "price": 5.49,
+  "stock": 200,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba48"
+  },
+  "name": "Item 3",
+  "price": 20,
+  "stock": 50,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba49"
+  },
+  "name": "Basic Tee",
+  "price": 35,
+  "stock": 100,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba4a"
+  },
+  "name": "Casual Shirt",
+  "price": 45,
+  "stock": 80,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba4b"
+  },
+  "name": "Formal Pants",
+  "price": 60,
+  "stock": 50,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba4c"
+  },
+  "name": "Running Shoes",
+  "price": 75,
+  "stock": 120,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b419321b925b42deaba4d"
+  },
+  "name": "Jacket",
+  "price": 90,
+  "stock": 60,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f685e"
+  },
+  "name": "Item 1",
+  "price": 10.99,
+  "stock": 100,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f685f"
+  },
+  "name": "Item 2",
+  "price": 5.49,
+  "stock": 200,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6860"
+  },
+  "name": "Item 3",
+  "price": 20,
+  "stock": 50,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6861"
+  },
+  "name": "Basic Tee",
+  "price": 35,
+  "stock": 100,
+  "color": "Black",
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6862"
+  },
+  "name": "Casual Shirt",
+  "price": 45,
+  "stock": 80,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6863"
+  },
+  "name": "Formal Pants",
+  "price": 60,
+  "stock": 50,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6864"
+  },
+  "name": "Running Shoes",
+  "price": 75,
+  "stock": 120,
+  "color": "White",
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b659ddd4b55458e0f6865"
+  },
+  "name": "Jacket",
+  "price": 90,
+  "stock": 60,
+  "imageSrc": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg"
+}]
