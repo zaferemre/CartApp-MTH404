@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CartAPP-MTH404.props" />
+</Project>

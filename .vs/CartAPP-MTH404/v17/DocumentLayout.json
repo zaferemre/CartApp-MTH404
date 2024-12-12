@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\controller\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\controller\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\items\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\items\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\cart\\cartitem.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\cart\\cartitem.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\shopping-cart\\app\\cart\\cartsidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\shopping-cart\\app\\cart\\cartsidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|c:\\users\\zafer\\onedrive\\masa\u00FCst\u00FC\\dev\\cartapp-mth404\\cartapp-mth404\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18E36E04-6456-4C2C-A8B9-BB7CB46C0EA8}|CartAPP-MTH404\\CartAPP-MTH404.csproj|solutionrelative:cartapp-mth404\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\globals.css",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\globals.css",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\globals.css",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T20:46:11.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\cart\\CartItem.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\cart\\CartItem.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\cart\\CartItem.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\cart\\CartItem.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T20:39:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartSidebar.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\cart\\CartSidebar.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\cart\\CartSidebar.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\cart\\CartSidebar.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\cart\\CartSidebar.js",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T20:39:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "header.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\header.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\header.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\header.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\header.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T20:09:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\tailwind.config.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\tailwind.config.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T16:29:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "page.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\items\\page.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\items\\page.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\items\\page.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\items\\page.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T15:36:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "layout.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\layout.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\layout.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\layout.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\layout.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T15:34:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\page.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\app\\page.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\app\\page.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\app\\page.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T15:31:07.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\Services\\api.js",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\shopping-cart\\Services\\api.js",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\shopping-cart\\Services\\api.js",
+              "RelativeToolTip": "CartAPP-MTH404\\shopping-cart\\Services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-12T15:30:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\CartController.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Controller\\CartController.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\CartController.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Controller\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:11:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Controller\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\ItemsController.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Controller\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:10:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Cart.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:10:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Item.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:09:55.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Controller\\CustomerController.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Controller\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:58:01.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Entities\\Customer.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:32:06.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Data\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Data\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Data\\MongoDbService.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Data\\MongoDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:26:57.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CartAPP-MTH404\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T13:23:29.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\appsettings.json",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\appsettings.json",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\appsettings.json",
+              "RelativeToolTip": "CartAPP-MTH404\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T13:17:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Program.cs",
+              "RelativeDocumentMoniker": "CartAPP-MTH404\\Program.cs",
+              "ToolTip": "C:\\Users\\zafer\\OneDrive\\Masa\u00FCst\u00FC\\Dev\\CartAPP-MTH404\\CartAPP-MTH404\\Program.cs",
+              "RelativeToolTip": "CartAPP-MTH404\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:13:54.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
