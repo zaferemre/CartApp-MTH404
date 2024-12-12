@@ -1,0 +1,3 @@
+[submodule "CartAPP-MTH404/shopping-cart"]
+    path = CartAPP-MTH404/shopping-cart
+    url = https://github.com/zaferemre/CartApp-Frontend.git
